@@ -95,7 +95,7 @@ namespace OOP_Exam
                         {
                             Console.WriteLine("Invalid input. There should be at least 2 options:");
                         }
-
+                         
                         Answers[] answers = new Answers[numOfOptions];
                         for (int j = 0; j < numOfOptions; j++)
                         {
